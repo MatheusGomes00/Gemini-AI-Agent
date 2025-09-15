@@ -1,0 +1,10 @@
+Relacionamento com Clientes e Pós-Venda
+1. Tempo de resposta: até 2 horas para clientes premium, 4 horas para demais.
+2. Follow-up obrigatório em 24h após resolução de problemas.
+3. Pesquisa de satisfação após conclusão de projetos ou suporte crítico.
+4. Reuniões trimestrais com clientes de contratos anuais.
+5. Registro obrigatório de todas as interações no CRM.
+6. Escalação automática para gerência após 3 reclamações do mesmo cliente.
+7. Programa de fidelidade com benefícios para contratos de longa duração.
+8. SLA de atendimento: 99,5% de disponibilidade para clientes premium.
+9. Clientes em período de teste podem ter SLA reduzido mediante acordo prévio.

@@ -1,0 +1,10 @@
+Desconto e Aprovação de Propostas
+1. Vendedores: desconto até 5% sem aprovação.
+2. Coordenadores: aprovam descontos até 15%.
+3. Gerentes: aprovam descontos até 25%.
+4. Diretoria: necessária para descontos acima de 25%.
+5. Propostas com prazo de pagamento superior a 60 dias requerem aprovação gerencial.
+6. Contratos acima de R$ 100.000,00 necessitam aprovação da diretoria.
+7. Condições especiais (entrega, suporte) devem ser validadas pelas áreas técnicas.
+8. Todas as aprovações devem ser documentadas no CRM.
+9. Clientes estratégicos podem ter condições especiais pré-aprovadas anualmente.

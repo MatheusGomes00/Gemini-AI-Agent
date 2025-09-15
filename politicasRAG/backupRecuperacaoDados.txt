@@ -1,0 +1,9 @@
+Backup e Recuperação de Dados
+1. Backup diário automático de todos os servidores críticos às 02:00.
+2. Retenção de backups: diário por 30 dias, semanal por 6 meses, mensal por 2 anos.
+3. Teste de restauração mensal em ambiente separado.
+4. Colaboradores devem salvar arquivos na rede corporativa, não localmente.
+5. Sincronização automática da pasta "Documentos" com o servidor.
+6. Recuperação de arquivos pessoais: até 30 dias após exclusão.
+7. Backups críticos mantidos em datacenter secundário (offsite).
+8. Dados temporários de desenvolvimento podem ter política de retenção reduzida.

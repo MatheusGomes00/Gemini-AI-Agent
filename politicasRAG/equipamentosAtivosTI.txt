@@ -1,0 +1,9 @@
+Equipamentos e Ativos de TI
+1. Renovação de notebooks: a cada 4 anos ou conforme necessidade técnica.
+2. Backup obrigatório em nuvem corporativa para todos os dispositivos.
+3. Instalação de software apenas com aprovação prévia da TI.
+4. Proibido uso de pendrives pessoais em equipamentos corporativos.
+5. Antivírus corporativo obrigatório em todos os dispositivos.
+6. Relatório de problemas deve ser aberto via Service Desk com descrição detalhada.
+7. Equipamentos danificados por mau uso podem gerar cobrança do reparo.
+8. Desenvolvedores podem solicitar configurações especiais mediante justificativa técnica.

@@ -1,0 +1,9 @@
+Acesso a Sistemas e Senhas
+1. Senhas devem ter mínimo 12 caracteres com letras maiúsculas, minúsculas, números e símbolos.
+2. Alteração obrigatória a cada 90 dias para sistemas críticos.
+3. Uso obrigatório de autenticação multifator (MFA) em todos os sistemas corporativos.
+4. Proibido compartilhamento de credenciais entre usuários.
+5. Bloqueio automático após 5 tentativas de login incorretas.
+6. Acesso temporário a sistemas pode ser concedido por até 30 dias.
+7. Gerenciador de senhas corporativo obrigatório para todos os colaboradores.
+8. Contas de serviço podem ter senhas com validade estendida mediante aprovação da TI.

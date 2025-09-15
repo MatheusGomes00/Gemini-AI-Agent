@@ -1,0 +1,80 @@
+RECURSOS HUMANOS
+Trabalho Remoto e Home Office
+1. Colaboradores podem trabalhar até 3 dias por semana em home office, mediante aprovação da liderança direta.
+2. Para trabalho 100% remoto ou mais de 3 dias semanais, é necessária aprovação excepcional do RH e diretoria.
+3. Reembolso de internet residencial limitado a R$ 150,00 mensais para colaboradores com mais de 2 dias de home office por semana.
+4. Equipamentos de trabalho (notebook, monitor, cadeira ergonômica) são fornecidos pela empresa para home office fixo.
+5. Horário de trabalho deve ser respeitado conforme estabelecido no contrato, independente da modalidade.
+6. Gestores podem autorizar home office integral temporariamente em casos especiais (mudança, reforma, questões de saúde).
+
+Reembolso de Despesas em Viagens
+1. Hospedagem: até R$ 400,00/diária para capitais, R$ 250,00/diária para interior.
+2. Alimentação: R$ 120,00/dia (café da manhã R$ 25, almoço R$ 50, jantar R$ 45).
+3. Transporte: preferencialmente terrestre quando viagem até 6 horas; aéreo classe econômica para distâncias maiores.
+4. Deslocamento urbano: taxi/uber até R$ 80,00/dia ou transporte público.
+5. Todas as despesas devem ter comprovante fiscal válido.
+6. Prazo para solicitação de reembolso: até 15 dias após retorno da viagem.
+7. Diretores podem aprovar valores acima dos limites estabelecidos mediante justificativa.
+
+Desenvolvimento e Treinamentos
+1. Orçamento anual de R$ 5.000,00 por colaborador para treinamentos técnicos.
+2. Certificações relacionadas à função têm prioridade e custeio integral.
+3. Cursos de idiomas: reembolso de 70% do valor, limitado a R$ 2.000,00/ano.
+4. Eventos e conferências: aprovação prévia da liderança, limitado a 2 eventos/ano.
+5. MBA/Pós-graduação: auxílio de 50% do valor mediante contrato de permanência de 2 anos.
+6. Horário de estudo: até 2h semanais no expediente para cursos aprovados pela empresa.
+7. Treinamentos obrigatórios (compliance, segurança) não contam no orçamento individual.
+
+SUPORTE TÉCNICO
+Acesso a Sistemas e Senhas
+1. Senhas devem ter mínimo 12 caracteres com letras maiúsculas, minúsculas, números e símbolos.
+2. Alteração obrigatória a cada 90 dias para sistemas críticos.
+3. Uso obrigatório de autenticação multifator (MFA) em todos os sistemas corporativos.
+4. Proibido compartilhamento de credenciais entre usuários.
+5. Bloqueio automático após 5 tentativas de login incorretas.
+6. Acesso temporário a sistemas pode ser concedido por até 30 dias.
+7. Gerenciador de senhas corporativo obrigatório para todos os colaboradores.
+8. Contas de serviço podem ter senhas com validade estendida mediante aprovação da TI.
+
+Equipamentos e Ativos de TI
+1. Renovação de notebooks: a cada 4 anos ou conforme necessidade técnica.
+2. Backup obrigatório em nuvem corporativa para todos os dispositivos.
+3. Instalação de software apenas com aprovação prévia da TI.
+4. Proibido uso de pendrives pessoais em equipamentos corporativos.
+5. Antivírus corporativo obrigatório em todos os dispositivos.
+6. Relatório de problemas deve ser aberto via Service Desk com descrição detalhada.
+7. Equipamentos danificados por mau uso podem gerar cobrança do reparo.
+8. Desenvolvedores podem solicitar configurações especiais mediante justificativa técnica.
+
+Backup e Recuperação de Dados
+1. Backup diário automático de todos os servidores críticos às 02:00.
+2. Retenção de backups: diário por 30 dias, semanal por 6 meses, mensal por 2 anos.
+3. Teste de restauração mensal em ambiente separado.
+4. Colaboradores devem salvar arquivos na rede corporativa, não localmente.
+5. Sincronização automática da pasta "Documentos" com o servidor.
+6. Recuperação de arquivos pessoais: até 30 dias após exclusão.
+7. Backups críticos mantidos em datacenter secundário (offsite).
+8. Dados temporários de desenvolvimento podem ter política de retenção reduzida.
+
+COMERCIAL
+Desconto e Aprovação de Propostas
+1. Vendedores: desconto até 5% sem aprovação.
+2. Coordenadores: aprovam descontos até 15%.
+3. Gerentes: aprovam descontos até 25%.
+4. Diretoria: necessária para descontos acima de 25%.
+5. Propostas com prazo de pagamento superior a 60 dias requerem aprovação gerencial.
+6. Contratos acima de R$ 100.000,00 necessitam aprovação da diretoria.
+7. Condições especiais (entrega, suporte) devem ser validadas pelas áreas técnicas.
+8. Todas as aprovações devem ser documentadas no CRM.
+9. Clientes estratégicos podem ter condições especiais pré-aprovadas anualmente.
+
+Relacionamento com Clientes e Pós-Venda
+1. Tempo de resposta: até 2 horas para clientes premium, 4 horas para demais.
+2. Follow-up obrigatório em 24h após resolução de problemas.
+3. Pesquisa de satisfação após conclusão de projetos ou suporte crítico.
+4. Reuniões trimestrais com clientes de contratos anuais.
+5. Registro obrigatório de todas as interações no CRM.
+6. Escalação automática para gerência após 3 reclamações do mesmo cliente.
+7. Programa de fidelidade com benefícios para contratos de longa duração.
+8. SLA de atendimento: 99,5% de disponibilidade para clientes premium.
+9. Clientes em período de teste podem ter SLA reduzido mediante acordo prévio.
